@@ -1,0 +1,6 @@
+# One course URL per line. Lines starting with # are ignored.
+# Copy this file to courses.txt and replace with your own courses:
+#   Copy-Item courses.txt.example courses.txt
+
+https://kampus-kursy.ckc.uw.edu.pl/course/view.php?id=7980
+https://kampus-kursy.ckc.uw.edu.pl/course/view.php?id=8490

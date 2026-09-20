@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+python-dotenv
+rich
+customtkinter
+img2pdf
+
+# Optional but recommended (faster). If `pip install lxml` fails on your
+# system, comment out the line below - the script will fall back to the
+# stdlib `html.parser` automatically.
+lxml
